@@ -1,5 +1,8 @@
 # CS-596Lab3
 
+Demo Video: https://youtube.com/shorts/5QywmKBS298
+
+Circuit Diagram
 | TTGO | DHT20 |
 |---|---|
 | 21 | 2 |
